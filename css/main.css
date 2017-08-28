@@ -219,4 +219,6 @@ a:hover {
 footer {
 	display: flex;
 	justify-content: center;
+	background-color:#373b47;
+    color: white;
 }
