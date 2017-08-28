@@ -10,7 +10,7 @@ function viewimage(e){
 
 	img=e.target; //todo lo que contiene el elemento
 	modal.style.display = "block";
-    //modalImg.src = img.src;
+    modalImg.src = img.src;
     captionText.innerHTML = img.alt;
 
 }
